@@ -8,6 +8,7 @@ Criação de uma API Rest usando Java com Spring Boot 2.0.x e banco de dados MyS
 
 - Java 11
 - SpringBoot 2.0.x
+- IDE STS (Spring Tool Suite)
 - Hibernate
 - RESTful
 - JWT
